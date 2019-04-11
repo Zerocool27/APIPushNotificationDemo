@@ -2,7 +2,7 @@
  * Main application file
  */
 
-//d8zZuX7-gbw:APA91bEG1sb56IAWsU6WYjQeMmIGwJ83FqdRsv79svHGjXxN5qN3vmQMyTSV36XfkRfsMut_5ExFeKFixZabBraaH_ogOuUaCEjTvf0vryAn9NKKKgyd5_n8x92lmyj9TbpI9u1_Hn-k
+//device_token: d8zZuX7-gbw:APA91bEG1sb56IAWsU6WYjQeMmIGwJ83FqdRsv79svHGjXxN5qN3vmQMyTSV36XfkRfsMut_5ExFeKFixZabBraaH_ogOuUaCEjTvf0vryAn9NKKKgyd5_n8x92lmyj9TbpI9u1_Hn-k
 //page_type: 'page_1','page_2','page_3','page_4',
 
 'use strict';
